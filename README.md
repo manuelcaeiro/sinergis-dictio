@@ -19,9 +19,15 @@ Either way, when you run the program it will appear a small window.
 
 Enter the word which definition you're looking for in the text box and hit return. If the word is in the word book, the definition will be shown.
 
+![](https://github.com/manuelcaeiro/sinergis-dictio/blob/master/screenshots/definition.JPG)
+
 If the word is not in the word book you may be shown 1 or 2 alternatives...
 
+![](https://github.com/manuelcaeiro/sinergis-dictio/blob/master/screenshots/alternatives.JPG)
+
 or a message saying "Unable to read/understand your entry". That will be the case if you enter profanities like the "F word", or "@!*%&#", or "java"(1).
+
+![](https://github.com/manuelcaeiro/sinergis-dictio/blob/master/screenshots/java.JPG)
 
 You can delete the word in the text box, write other word and hit return as many times as you want (until you get bored, and then you may click on "Exit" and the window will magically disappear).
 
