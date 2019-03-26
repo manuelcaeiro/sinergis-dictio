@@ -15,7 +15,7 @@ If you use _Pydroid_ or _Phytonista_, download the files "gui\_dict.py" and "bie
 
 Either way, when you run the program it will appear a small window.
 
-https://github.com/manuelcaeiro/sinergis-dictio/blob/master/screenshots/empty.JPG
+![](https://github.com/manuelcaeiro/sinergis-dictio/blob/master/screenshots/empty.JPG)
 
 Enter the word which definition you're looking for in the text box and hit return. If the word is in the word book, the definition will be shown.
 
