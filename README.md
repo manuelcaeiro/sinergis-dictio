@@ -9,7 +9,7 @@ Bierce's word book has only 996 words. It would frustrating to look for some wor
 Fortunately, Python language has a built-in function called *get\_close_matches()* that returns "a list of the best 'good enough' matches" - see [here](https://docs.python.org/3.6/library/difflib.html), and that allows to output 'suggestions' for other (similar) words inside the word book.
 
 # How to use
-Download the bundle "cynics\_wordbook.exe" (presently only for Windows) from the repository and run it - no need to install.
+Download the bundle ["cynics\_wordbook.exe"](https://github.com/manuelcaeiro/sinergis-dictio/blob/master/cynics_wordbook.exe) (presently only for Windows) from the repository and run it - no need to install.
 
 If you use _Pydroid_ or _Phytonista_, download the files "gui\_dict.py" and "bierce.json" into the same folder on your mobile device, and run the .py file.
 
@@ -29,7 +29,7 @@ or a message saying "Unable to read/understand your entry". That will be the cas
 
 ![](https://github.com/manuelcaeiro/sinergis-dictio/blob/master/screenshots/java.JPG)
 
-You can delete the word in the text box, write other word and hit return as many times as you want (until you get bored, and then you may click on "Exit" and the window will magically disappear).
+You can delete the word in the text box, write other word (and hit return) as many times as you want (until you get bored, and then you may click on "Exit" and the window will magically disappear).
 
 (1) Python programmer's joke.
 
