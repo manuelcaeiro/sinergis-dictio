@@ -9,7 +9,6 @@ Bierce's word book has only 996 words. It would frustrating to look for some wor
 Fortunately, Python language has a built-in function called *get\_close_matches()* that returns "a list of the best 'good enough' matches" - see [here](https://docs.python.org/3.6/library/difflib.html), and that allows to output 'suggestions' for other (similar) words inside the word book.
 
 # How to use
----
 Download the bundle "cynics\_wordbook.exe" (presently only for Windows) from the repository and run it - no need to install.
 
 If you use _Pydroid_ or _Phytonista_, download the files "gui\_dict.py" and "bierce.json" into the same folder on your mobile device, and run the .py file.
