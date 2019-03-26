@@ -27,11 +27,9 @@ You can delete the word in the text box, write other word and hit return as many
 (1) Python programmer's joke.
 
 # Licences
----
 See [here](https://github.com/manuelcaeiro/sinergis-dictio/blob/master/Licences.md)
 
 # TODO
----
 - Upon request: executable bundles for Ubuntu and Debian.
 
 - Upon request (plus a generous donation): Build JSON files for other dictionaries.
