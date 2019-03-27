@@ -4,7 +4,7 @@ A Python 3 responsive reader for the JSON representation of The Cynic's Word Boo
 (It will work with any other dictionary in JSON file format)
 
 # The dictionary
-Bierce's word book has only 996 words. It would frustrating to look for some words in it and probably get no output most of the times.
+Bierce's word book has only 996 words. It would be frustrating to look for some words in it and probably get no output most of the times.
 
 Fortunately, Python language has a built-in function called *get\_close_matches()* that returns "a list of the best 'good enough' matches" - see [here](https://docs.python.org/3.6/library/difflib.html), and that allows to output 'suggestions' for other (similar) words inside the word book.
 
